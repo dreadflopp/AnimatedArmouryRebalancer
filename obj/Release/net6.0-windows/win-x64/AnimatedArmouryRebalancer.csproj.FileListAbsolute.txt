@@ -1,0 +1,3 @@
+U:\Documents\Rebalance Animated Armoury\obj\Release\net6.0-windows\win-x64\AnimatedArmouryRebalancer.csproj.AssemblyReference.cache
+U:\Documents\Rebalance Animated Armoury\obj\Release\net6.0-windows\win-x64\AnimatedArmouryRebalancer.GeneratedMSBuildEditorConfig.editorconfig
+U:\Documents\Rebalance Animated Armoury\obj\Release\net6.0-windows\win-x64\AnimatedArmouryRebalancer.csproj.CoreCompileInputs.cache

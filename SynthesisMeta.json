@@ -1,0 +1,9 @@
+{
+  "Nickname": "Animated Armoury Rebalancer",
+  "Visibility": "Visible",
+  "OneLineDescription": "Rebalances weapons from Animated Armoury based on material and type",
+  "LongDescription": "This patcher rebalances weapons from Animated Armoury by adjusting their stats (damage, speed, reach, stagger, critical) based on material and type.\nIt can apply WACCF material tier changes if enabled, and handles special cases for bound weapons and Dragon Priest Claws.\nThe patcher creates a patch with the rebalanced weapons that can be loaded in the game.",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [],
+  "TargetedReleases": []
+}

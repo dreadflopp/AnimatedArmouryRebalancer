@@ -1,6 +1,6 @@
 {
   "Nickname": "Animated Armoury Rebalancer",
-  "Visibility": "Visible",
+  "Visibility": "Exclude",
   "OneLineDescription": "Rebalances weapons from Animated Armoury based on material and type",
   "LongDescription": "This patcher rebalances weapons from Animated Armoury by adjusting their stats (damage, speed, reach, stagger, critical) based on material and type.\nIt can apply WACCF material tier changes if enabled. The rebalance makes the mod more in balance with vanilla or other mods that are balance, like Heavy Armory.",
   "PreferredAutoVersioning": "Default",
